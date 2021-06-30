@@ -1,0 +1,4 @@
+api:
+  image: nyc-squirrels-api:latest
+  volumes:
+   - .:/app
